@@ -6,7 +6,8 @@
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ViniciusKinjo&layout=compact&langs_count=7&theme=algolia"/>
 </div>
   <hr>
-<div><br>
+<div align="center">
+  <h2>Languages and tools</h2>
   <code><img align="center" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg"></code>
   <code><img align="center" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg"></code>
   <code><img align="center" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg"></code>
@@ -16,10 +17,6 @@
   <code><img align="center" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg"></code>
   <code><img align="center" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg"></code>
   <code><img align="center" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/apache/apache-original.svg"></code>
-  <br><br>
-  Loading...
-</div>
-<div><br>
   <code><img align="center" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg"></code>
   <code><img align="center" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/intellij/intellij-original.svg"></code>
   <br><br>
